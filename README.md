@@ -18,7 +18,8 @@ At the CS Club, we believe in the power of collaboration and creativity. Our mis
 Join our tech family and stay updated on all our activities:
 
 - **💬 Website**: [CS CLUB IIITDM](https://csclub.netlify.app/)
-- **📸 Instagram**: [@csclub_iiitdm](https://www.instagram.com/cs.club.iiitdm/)
+- **📸 Instagram**: [@cs.club.iiitdm](https://www.instagram.com/cs.club.iiitdm/)
+
 
 
 For any questions or ideas, feel free to reach out via email at [csclub@iiitdm.ac.in](mailto:csclub@iiitdm.ac.in). We’d love to hear from you! 💌
